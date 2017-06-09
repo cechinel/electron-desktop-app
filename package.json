@@ -1,0 +1,22 @@
+{
+  "name": "electron-desktop-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cechinel/electron-desktop-app.git"
+  },
+  "author": "Alexandre Cechinel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cechinel/electron-desktop-app/issues"
+  },
+  "homepage": "https://github.com/cechinel/electron-desktop-app#readme",
+  "devDependencies": {
+    "electron-prebuilt": "^1.4.13"
+  }
+}
